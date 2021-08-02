@@ -1,0 +1,14 @@
+.samplewiki {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    max-width: 250px;
+    cursor: pointer;
+}
+
+.samplethumbnail {
+    max-width: 250px;
+    max-height: 250px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+}
